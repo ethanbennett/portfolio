@@ -3,7 +3,6 @@
 Only includes work that has been published publicly. For more information, go to [ethan.reviews/code](https://ethan.reviews/code).
 
 <br>
-<br>
 
 
 <center>
