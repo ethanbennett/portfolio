@@ -66,7 +66,7 @@ Each form implementation should check that the receiver address has received the
 ---
 
 <a id="l-01"></a>
-###Low: Upgradable vault admin can attack Superform users by changing the implementation of any vault underlying an existing superform
+### Low: Upgradable vault admin can attack Superform users by changing the implementation of any vault underlying an existing superform
 
 **Context**
 
