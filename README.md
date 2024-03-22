@@ -1,6 +1,6 @@
 ## Security Portfolio
 
-Only includes work that has been published publicly. For more information, see [ethan.reviews/code](https://ethan.reviews/code).
+Only includes work that has been published publicly. For more information, go to [ethan.reviews/code](https://ethan.reviews/code).
 
 <br>
 <br>

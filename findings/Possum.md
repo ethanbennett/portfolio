@@ -2,7 +2,7 @@
 
 November 2023 (Hats Finance)
 
-Deposit funds to receive their yield upfront. Deployed on Arbitrum.
+Deposit funds to receive yield upfront. Deployed on Arbitrum.
 
 ### High: Users can bypass `portalEnergy` calculations when unstaking to steal extra yield from the contract
 

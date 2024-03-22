@@ -1,7 +1,7 @@
 ## NextGen
 October 2023 (Code4rena)
 
-A platform for minting generative art on Ethereum.
+A platform for minting and auctioning generative art.
 
 | Severity  | Finding    |
 | :-------: | :--------- |
