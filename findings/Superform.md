@@ -49,7 +49,7 @@ The slippage check between the two values that occurs in `CoreStateRegistry._upd
 
 **Description**
 
-When a user calls any variation of deposit or withdraw from the SuperformRouter, the contracts will eventually deposit or redeem the specified amount of tokens from the superform's underlying vault. When the form implementation calls `v.redeem`, it checks that the number returned from the external call is greater than (or equal to) the amount included in the `txData` object supplied by the user — the problem is, it does not actually check that any tokens were received by the superform. For `v.deposit`, there is no validation of `dstAmount` of any kind.
+When a user calls any variation of deposit or withdraw from the `SuperformRouter`, the contracts will eventually deposit or redeem the specified amount of tokens from the superform's underlying vault. When the form implementation calls `v.redeem`, it checks that the number returned from the external call is greater than (or equal to) the amount included in the `txData` object supplied by the user — the problem is, it does not actually check that any tokens were received by the superform. For `v.deposit`, there is no validation of `dstAmount` of any kind.
 
 Since it is not safe to assume anything about how an external vault is designed, it is possible that a flawed implementation could silently fail but still return a valid integer. A malicious vault could also intentionally return a value without sending any tokens back.
 
