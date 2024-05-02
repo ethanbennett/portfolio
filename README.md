@@ -1,17 +1,17 @@
 ## Security Portfolio
 
-Only includes work that has been published publicly. For more information, go to [ethan.reviews/code](https://ethan.reviews/code).
+Only includes work that has been published publicly. For more information, go to [darklinear.com](https://darklinear.com).
 
 <br>
 
 
 <center>
 
-| Protocol   | Completed      | Findings      |
-| :--------: | :----------    | :-----------: |
-| **Superform**  | December 2023  | [2 Medium, 1 Low, 1 Informational](https://github.com/ethanbennett/portfolio/blob/main/findings/Superform.md) |
-| **Possum Portals** | November 2023 | [1 High](https://github.com/ethanbennett/portfolio/blob/main/findings/Possum.md) |
-| **NextGen** | November 2023 | [2 High, 5 Low](https://github.com/ethanbennett/portfolio/blob/main/findings/NextGen.md) |
-| **Frankencoin** | April 2023 | [1 Medium (solo)](https://github.com/ethanbennett/portfolio/blob/main/findings/Frankencoin.md) |
+| Protocol   | Completed      |
+| :--------: | :----------    |
+| [**Superform**](https://github.com/ethanbennett/portfolio/blob/main/findings/Superform.m)  | December 2023  |
+| [**Possum — Portals V1**](https://github.com/ethanbennett/portfolio/blob/main/findings/Possum.md) | November 2023 | [1 High]() |
+| [**NextGen**](https://github.com/ethanbennett/portfolio/blob/main/findings/NextGen.md) | November 2023 |
+| [**Frankencoin**](https://github.com/ethanbennett/portfolio/blob/main/findings/Frankencoin.md) | April 2023 |
 
 </center>
