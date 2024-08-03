@@ -14,7 +14,7 @@ Only includes publicly published work. For more information, go to [darklinear.c
 | [**Optimism — Safe Extensions**](https://github.com/ethanbennett/portfolio/blob/main/reports/Optimism-Darklinear-Security-Review.pdf) | May 2024 |
 | [**Rumpel — Point Tokenization Vault**](https://github.com/ethanbennett/portfolio/blob/main/reports/Rumpel-Darklinear-Security-Review.pdf) | April 2024 |
 | [**Dyad**](https://github.com/ethanbennett/portfolio/blob/main/reports/Dyad-Darklinear-Security-Review.pdf) | April 2024 |
-| Goat.Tech | April 2024 |
+| [**Goat.Tech**](https://github.com/ethanbennett/portfolio/blob/main/reports/Goat.Tech-Darklinear-Security-Review.pdf) | April 2024 |
 | 3DNS | February 2024 |
 | ZeroLend | January 2024 |
 | [**Superform**](https://github.com/ethanbennett/portfolio/blob/main/reports/Superform-Darklinear-Security-Review.pdf)  | December 2023  |
